@@ -63,6 +63,7 @@ Der Unterschied zu nicht verfügbar ist wie bei den oben genannten Möglichkeite
 Alles in allem kann man sagen das die Entwicklung des DAIA für ein einheitliches sowie konkretes Bild der Verfügbarkeit steht. Es stellt sich die Frage ob man die Trefferübersicht nicht wie bei WinBIAP gestaltet, also eine weitere Spalt anfügt, die die erste Frage beantwortet. Ist der Titel für den Nutzer zugänglich oder nicht.
 
 ###Neues Ziel?
-Als ein mögliches kommendes Ziel könnte man sich setzen die Entleihbarkeit bei Vormerkungen/Bestellungen einheitlich aufzustellen. Derzeitig gibt es die verschiedensten Varianten. Man sucht im Katalog und bekommt sofort den entsprechenden Button angezeigt, nach betätigen des Button soll man sich anmelden um die Reservierung/Vormerkung dem Nutzer zu zu ortnen.Bei anderen wird erst angeboten nach der Anmeldung die Möglichkeit gegeben sich einen Titel vormerken /reservieren zu lassen.
-Ein weiteres Ziel wäre wie oben beschrieben in der Trefferübersicht eine weitere Spalte anzufügen um dem Nutzer gleich aufzuzeigen ob der Titel im Hause ist oder ob er ihn bestellen/vormerken sollte.
-
+Als ein mögliches neues Ziel könnte man sich überlegen, die Entleihbarkeit bei Vormerkungen/Bestellungen einheitlich aufzustellen. Derzeitig gibt es die verschiedensten Varianten. Man sucht im Katalog und bekommt sofort den entsprechenden Button angezeigt, nach betätigen des Button soll man sich anmelden um die Reservierung/Vormerkung dem Nutzer zu zu ordnen.
+Bei anderen Systemen wird die Möglichkeit der Vormerkung/Bestellung erst angeboten nach der Anmeldung.
+Ein weiteres Ziel wäre wie oben beschrieben in der Trefferübersicht eine weitere Spalte anzufügen um dem Nutzer gleich aufzuzeigen ob der Titel im Haus ist oder ob er ihn bestellen/vormerken kann.
+Ein großes Ziel wäre eine einheitliche Formulierung in den Verfügbarkeitsanzeigen zu schaffen. Derzeitig ist sehr offen formuliert.
