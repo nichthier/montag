@@ -1,6 +1,5 @@
-\documentclass[a4paper, 12pt]{article}
-
-@book{.,title = {Quellen}
+@book{.,
+ title = {Quellen}
 }
 
 
@@ -64,4 +63,4 @@
  title = {Verf{\"u}gbarkeitsrecherche mit DAIA},
  url = {https://www.gbv.de/wikis/cls/Verf\%C3\%BCgbarkeitsrecherche_mit_DAIA}
 }
-\end{document}
+
